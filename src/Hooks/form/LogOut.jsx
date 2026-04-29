@@ -1,0 +1,12 @@
+import React from 'react'
+
+export default function LogOut() {
+
+  return (
+    <>
+    
+
+    <button onClick={logout}>Logout</button>
+    </>
+  )
+}
